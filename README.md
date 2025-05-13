@@ -24,8 +24,6 @@ EEG data is often contaminated by noise and artifacts such as muscle movements o
 	•	Optimizer: Adam (lr=0.001)
 
 ## 📈 Results
-	•	Final training loss: 0.0012 (MSE)
-	•	Test loss: ~49 (MSE)
 	•	Pearson correlation: ~75% between predicted and clean signals
 	•	Qualitative results: Model preserves EEG periodicity and suppresses noise while mimicking some artifacts
 
